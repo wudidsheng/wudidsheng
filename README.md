@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on The front-end development
 - 🌱 I’m currently lening TS/Python 
-- 🤔 I’m looking for help with web security
+- 🤔 I’m looking for help with Py,node
 - 😄 Pronouns: Love smile boy，Rose rice machine
 - ⚡ Fun fact: sleep ,music    
 
